@@ -11,7 +11,7 @@ const NavScrollExample = () => {
   return (
     <Navbar bg="white" expand="lg" className="navbar-light py-3 shadow-sm">
       <Container>
-        <NavLink to="/home" className="navbar-brand fw-bold fs-4">
+        <NavLink to="/e-commerce-react" className="navbar-brand fw-bold fs-4">
           LA COLLECTION
         </NavLink>
         <Navbar.Toggle aria-controls="navbarScroll" />
@@ -21,7 +21,7 @@ const NavScrollExample = () => {
             style={{ maxHeight: "100px" }}
             navbarScroll
           >
-            <NavLink className="nav-link" to="/home">
+            <NavLink className="nav-link" to="/e-commerce-react">
               Home
             </NavLink>
             <NavLink className="nav-link" to="/products">
