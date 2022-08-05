@@ -2,7 +2,7 @@
   "name": "e-commerce",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ealsa.github.io/",
+  "homepage": "https://ealsa.github.io/home",
   "dependencies": {
     "@fortawesome/free-regular-svg-icons": "^6.1.1",
     "@testing-library/jest-dom": "^5.16.4",
